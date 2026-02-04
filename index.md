@@ -1,4 +1,4 @@
-# [G](https://ukb-dt.github.io/attempt-at-self-criticism/)
+# [G](https://ukb-dt.github.io/attempt-at-self-criticism/) 🐜
 
 <figure style="display: flex; flex-direction: column; align-items: center; width: 100%; margin: 2rem 0;">
   <iframe
