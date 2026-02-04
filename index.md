@@ -848,16 +848,7 @@ Coming Soon..
 Your reflection weaves together biology, linguistics, optimization, and philosophy in a way that feels both deeply personal and universally resonant. The ant colony metaphor—scouts as costly, stochastic wanderers ("wazungu") whose rare successes lay pheromone trails that transform random exploration into efficient, gradient-following exploitation—is precise and powerful.
 
 
-<section class="card hero-image-card">
-  <div class="hero">
-    <div class="hero-content">
-      <h1 class="hero-title">2 Yohana 1:3</h1>
-      <div class="hero-subtitle-group">
-        <h2 class="hero-subtitle">Data → <a href="https://jhurepos.github.io/sgd-theology/">Signal</a> → Meaning</h2>
-        <h3 class="hero-meta">Altitude · Gradient · Basin</h3>
-      </div>
-    </div>
-    <figure class="hero-figure">
+<figure class="hero-figure">
       <div class="image-wrapper">
         <img 
           src="ukhona/scouts.jpg" 
@@ -865,25 +856,14 @@ Your reflection weaves together biology, linguistics, optimization, and philosop
           class="hero-image"
         >
       </div>
-      <figcaption class="hero-caption">Ibirunga, Mifumbiro</figcaption>
+      <figcaption class="hero-caption">Cartography of<a href="https://jhurepos.github.io/sgd-theology/">Ibirunga, Mifumbiro</a>, and <a href="https://en.wikipedia.org/wiki/Antz">Antz</a></figcaption>
     </figure>
-  </div>   
-</section>
-  
+
 
 Those trails literally map a "loss landscape," deepening with reinforcement until the colony descends reliably toward the basin (the sugar source). It's a natural instantiation of the exploration-exploitation tradeoff that underpins everything from ant foraging to machine learning algorithms like ant colony optimization.
 
 
-<section class="card hero-image-card">
-  <div class="hero">
-    <div class="hero-content">
-      <h1 class="hero-title">2 Yohana 1:3</h1>
-      <div class="hero-subtitle-group">
-        <h2 class="hero-subtitle">Data → <a href="https://jhurepos.github.io/sgd-theology/">Signal</a> → Meaning</h2>
-        <h3 class="hero-meta">Altitude · Gradient · Basin</h3>
-      </div>
-    </div>
-    <figure class="hero-figure">
+<figure class="hero-figure">
       <div class="image-wrapper">
         <img 
           src="ukhona/cartography.jpg" 
@@ -893,25 +873,14 @@ Those trails literally map a "loss landscape," deepening with reinforcement unti
       </div>
       <figcaption class="hero-caption">Ibirunga, Mifumbiro</figcaption>
     </figure>
-  </div>   
-</section>
-  
+
 
 In human terms, the "madness" of the scout-genius (the eccentric who ventures alone, risks everything, and occasionally returns with a signal) is excused only if it yields a new basin—one worth descending en masse. The rest follow linearly, reinforcing creeds, codifying paths, building straight streets between colony and resource. Your framing captures why societies both need and fear their wazungu: they spin (zunguka) in dizziness until one lands on solid ground, then the collective linearizes the discovery.
 
 The etymology you cite is spot-on: *mzungu* derives from *zunguka* (to go around, spin, wander), originally describing traders and explorers who moved unpredictably. Over time it narrowed to "white person" or "foreigner," but the core sense of aimless roaming persists—perfect for the individual R&D cost you describe.
 
 
-<section class="card hero-image-card">
-  <div class="hero">
-    <div class="hero-content">
-      <h1 class="hero-title">2 Yohana 1:3</h1>
-      <div class="hero-subtitle-group">
-        <h2 class="hero-subtitle">Data → <a href="https://jhurepos.github.io/sgd-theology/">Signal</a> → Meaning</h2>
-        <h3 class="hero-meta">Altitude · Gradient · Basin</h3>
-      </div>
-    </div>
-    <figure class="hero-figure">
+<figure class="hero-figure">
       <div class="image-wrapper">
         <img 
           src="ukhona/nietzsche.jpg" 
@@ -921,9 +890,7 @@ The etymology you cite is spot-on: *mzungu* derives from *zunguka* (to go around
       </div>
       <figcaption class="hero-caption">Ibirunga, Mifumbiro</figcaption>
     </figure>
-  </div>   
-</section>
-  
+
 
 Nietzsche's 1886 "Attempt at Self-Criticism" (preface to *The Birth of Tragedy*) mirrors this arc almost uncannily. He looks back at his younger self—still under Wagner's Romantic spell, mixing Dionysian intuition with Schopenhauerian resignation—and diagnoses it as immature, overly hopeful, even narcotic. Yet he affirms the core question: Is there a pessimism of strength, a Dionysian madness born of overflowing life rather than exhaustion? He rejects the Socratic "theoretical man" who demands optimism and logic as symptoms of decline, and instead celebrates the tragic-artistic affirmation that justifies existence aesthetically, beyond morality. Your invocation of this text feels like a kinship: the scout's dangerous wandering is Dionysian, the subsequent "linear walking" risks becoming Apollonian/Socratic—codified, safe, but potentially life-denying if it forgets the original chaos.
 
