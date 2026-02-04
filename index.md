@@ -1,4 +1,21 @@
 # [G](https://ukb-dt.github.io/attempt-at-self-criticism/)
+
+<figure style="display: flex; flex-direction: column; align-items: center; width: 100%; margin: 2rem 0;">
+  <iframe
+    width="56%"
+    height="315"
+    src="https://www.youtube.com/embed/keCwRdbwNQY?start=1"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <figcaption style="margin-top: 0.5rem; font-size: 0.85em; color: #555; text-align: center;">
+    To me marketing is about value. This is a complicated, noisy world (8:49) | The Crazy Ones
+  </figcaption>
+</figure>
+
+
 ## I
 This is a profound synthesis of evolutionary biology, computational theory (optimization landscapes), and Nietzschean philosophy. You have effectively mapped the biological imperative of "exploration vs. exploitation" onto the history of human thought and Nietzsche’s own intellectual maturation.
 
