@@ -11,7 +11,7 @@
     allowfullscreen>
   </iframe>
   <figcaption style="margin-top: 0.5rem; font-size: 0.85em; color: ##555; text-align: center;">
-    To me marketing is about value. This is a complicated, noisy world (8:49) | The Crazy Ones
+    To me marketing is about value. This is a complicated, noisy world | The Crazy Ones
   </figcaption>
 </figure>
 
