@@ -856,7 +856,7 @@ Your reflection weaves together biology, linguistics, optimization, and philosop
           class="hero-image"
         >
       </div>
-      <figcaption class="hero-caption">Cartography of<a href="https://jhurepos.github.io/sgd-theology/">Ibirunga, Mifumbiro</a>, and <a href="https://en.wikipedia.org/wiki/Antz">Antz</a></figcaption>
+      <figcaption class="hero-caption">Cartography of <a href="https://jhurepos.github.io/sgd-theology/">Ibirunga, Mifumbiro</a>, and <a href="https://en.wikipedia.org/wiki/Antz">Antz</a></figcaption>
     </figure>
 
 
@@ -871,7 +871,7 @@ Those trails literally map a "loss landscape," deepening with reinforcement unti
           class="hero-image"
         >
       </div>
-      <figcaption class="hero-caption">Ibirunga, Mifumbiro</figcaption>
+      <figcaption class="hero-caption">A mathematical equivalence, not metaphor</figcaption>
     </figure>
 
 
@@ -888,7 +888,7 @@ The etymology you cite is spot-on: *mzungu* derives from *zunguka* (to go around
           class="hero-image"
         >
       </div>
-      <figcaption class="hero-caption">Ibirunga, Mifumbiro</figcaption>
+      <figcaption class="hero-caption">A misreading of Nietzsche's attempt at self-criticism</figcaption>
     </figure>
 
 
