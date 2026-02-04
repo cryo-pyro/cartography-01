@@ -695,12 +695,12 @@ I can draft that next if you want.
 
 By 2027 you will have:
 
-✔ Live platform
-✔ Publications
-✔ Policy citations
-✔ NIH grant role
-✔ Letters from MoH + UCU
-✔ Cost-effectiveness work
+✔ Live platform     
+✔ Publications     
+✔ Policy citations      
+✔ NIH grant role         
+✔ Letters from MoH + UCU      
+✔ Cost-effectiveness work     
 
 You won’t be “applying.”
 
